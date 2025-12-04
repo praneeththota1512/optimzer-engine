@@ -1,0 +1,38 @@
+# Antigravity Optimization Engine Configuration
+
+# Time horizon and discretization
+horizon_hours: 48
+time_slot_minutes: 30
+solver_time_budget_seconds: 600
+fast_mode_budget_seconds: 120
+random_seed: 42
+
+# Objective function weights
+objective_weights:
+  cost: 1.0
+  delay: 0.5
+  delivery_violation: 2.0
+
+# Agent configuration
+agent:
+  enable: true
+  backend: "ollama"          # "llama_cpp" | "ollama" | "vllm"
+  model_name: "mistral"      # Ollama model name (e.g., "mistral", "llama2", "codellama")
+  ollama_url: "http://localhost:11434"
+  agent_time_budget_seconds: 60
+  max_candidates_per_iteration: 3
+  temperature: 0.0
+  max_tokens: 512
+  max_retries: 2
+
+# LNS configuration
+lns:
+  max_iterations: 10
+  neighborhood_size: 5
+  improvement_threshold: 0.01
+
+# Simulation configuration
+simulation:
+  num_scenarios: 100
+  eta_noise_hours: 2.0
+  service_time_variance: 0.15

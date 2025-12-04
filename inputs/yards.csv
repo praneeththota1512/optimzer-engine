@@ -1,0 +1,4 @@
+yard_id,name,capacity_tonnes,current_stock_tonnes,cargo_type
+Y001,Yard Iron Ore A,50000,15000,iron_ore
+Y002,Yard Coal B,40000,10000,coal
+Y003,Yard Container C,20000,5000,containers

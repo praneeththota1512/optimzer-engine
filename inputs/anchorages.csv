@@ -1,0 +1,3 @@
+anchorage_id,name,max_capacity_ships,hourly_waiting_cost
+A001,Anchorage North,5,50
+A002,Anchorage South,3,50

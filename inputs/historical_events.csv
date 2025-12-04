@@ -1,0 +1,4 @@
+event_id,timestamp_iso,event_type,ship_id,berth_id,description
+E001,2025-12-04T10:00:00Z,delay,S001,B001,Weather delay - 2 hours
+E002,2025-12-04T14:30:00Z,crane_failure,,,Crane C004 out of service
+E003,2025-12-04T18:00:00Z,early_arrival,S002,,Arrived 3 hours early

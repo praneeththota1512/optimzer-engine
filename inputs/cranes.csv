@@ -1,0 +1,13 @@
+crane_id,berth_id,throughput_tonnes_per_hour,operational
+C001,B001,1200,true
+C002,B001,1200,true
+C003,B001,1200,true
+C004,B001,1200,false
+C005,B002,1000,true
+C006,B002,1000,true
+C007,B002,1000,true
+C008,B003,1100,true
+C009,B003,1100,true
+C010,B003,1100,true
+C011,B004,800,true
+C012,B004,800,true

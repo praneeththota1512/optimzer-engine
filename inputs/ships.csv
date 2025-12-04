@@ -1,0 +1,9 @@
+ship_id,name,eta_iso,loa_meters,draft_meters,cargo_type,cargo_tonnes,priority,service_hours,destination_plant
+S001,MV Pacific Star,2025-12-05T06:00:00Z,280,12.5,iron_ore,75000,high,8,PLANT_A
+S002,MV Ocean Glory,2025-12-05T08:30:00Z,225,10.2,coal,45000,medium,6,PLANT_B
+S003,MV Atlantic Wave,2025-12-05T10:00:00Z,300,13.8,iron_ore,85000,high,10,PLANT_A
+S004,MV Nordic Breeze,2025-12-05T14:00:00Z,190,9.5,containers,25000,low,4,PLANT_C
+S005,MV Southern Cross,2025-12-05T16:30:00Z,260,11.8,coal,60000,medium,7,PLANT_B
+S006,MV Eastern Sun,2025-12-06T02:00:00Z,240,10.8,iron_ore,55000,high,6,PLANT_A
+S007,MV Western Wind,2025-12-06T06:00:00Z,210,9.8,containers,30000,low,5,PLANT_C
+S008,MV Arctic Voyager,2025-12-06T12:00:00Z,295,13.2,coal,80000,medium,9,PLANT_B

@@ -1,0 +1,21 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+pyyaml>=6.0
+
+# Optimization
+ortools>=9.7.0
+
+# Agent & LLM
+requests>=2.31.0
+pydantic>=2.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Optional API
+flask>=2.3.0
+
+# Utilities
+python-dateutil>=2.8.2

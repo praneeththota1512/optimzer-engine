@@ -1,0 +1,5 @@
+berth_id,name,max_loa_meters,max_draft_meters,allowed_cargo_types,num_cranes,hourly_cost
+B001,Berth Alpha,320,14.0,"iron_ore,coal",4,1200
+B002,Berth Beta,250,11.0,"coal,containers",3,900
+B003,Berth Gamma,280,12.5,"iron_ore,coal",3,1000
+B004,Berth Delta,200,10.0,containers,2,700

@@ -1,0 +1,4 @@
+plant_id,cargo_type,required_delivery_iso,quantity_tonnes,penalty_per_hour_late
+PLANT_A,iron_ore,2025-12-06T18:00:00Z,150000,500
+PLANT_B,coal,2025-12-06T20:00:00Z,100000,400
+PLANT_C,containers,2025-12-07T00:00:00Z,50000,300

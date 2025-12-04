@@ -1,0 +1,4 @@
+tug_id,name,capacity_ships_per_slot,cost_per_use
+T001,Tug Alpha,2,500
+T002,Tug Beta,2,500
+T003,Tug Gamma,1,400

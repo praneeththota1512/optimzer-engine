@@ -1,0 +1,6 @@
+cost_type,value
+ship_waiting_per_hour,200
+berth_idle_per_hour,100
+tug_standby_per_hour,80
+yard_storage_per_tonne_hour,0.5
+customs_clearance_fixed,1000
